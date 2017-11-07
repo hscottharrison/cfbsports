@@ -1,0 +1,23 @@
+.main-feed-wrapper{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh
+}
+.main-feed{
+  width: 60%;
+  min-height: 100%;
+  background-color:#e5e5e5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.preview-wrapper{
+  margin: 20px 0px;
+  width: 80%;
+  height: 15rem;
+  background-color: #fff;
+}
+.preview-image{
+  
+}
